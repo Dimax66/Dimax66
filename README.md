@@ -1,86 +1,91 @@
-<!-- ============================================ -->
-<!--   DIMAX66 — ELITE CYBER README + TERMINAL   -->
-<!-- ============================================ -->
+<!-- ========================================= -->
+
+<!--     DIMAX66 — PREMIUM CYBER PROFILE     -->
+
+<!-- ========================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,100:0066FF&height=220&section=header&text=DIMAX66%20%E2%80%A2%20CYBER%20LAB&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoZTVidDhydTNvdXJxY3E3Mml6Z2lsNDlqNGN2b2d3cjZ5NnlxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="100%" height="220" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=850&color=00FFF7&center=true&vCenter=true&width=950&lines=AUTOMATION+%7C+SECURITY+%7C+WEB+ENGINEERING;LOW+PROFILE+%E2%80%A2+HIGH+IMPACT;SYSTEM+ONLINE+%E2%9A%A1"/>
+<br><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=900&color=00FFF7&center=true&vCenter=true&width=900&lines=DIMAX66+CYBER+PROFILE;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY;SILENT+WORK.+VISIBLE+RESULTS." />
 
-<img src="https://komarev.com/ghpvc/?username=Dimax66&style=for-the-badge&color=00FFF7"/>
-<img src="https://img.shields.io/github/followers/Dimax66?style=for-the-badge&color=00FFF7&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Dimax66?style=for-the-badge&color=00FFF7&label=STARS"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Dimax66&style=for-the-badge&color=00FFF7" />
+<img src="https://img.shields.io/github/followers/Dimax66?style=for-the-badge&color=00FFF7&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Dimax66?style=for-the-badge&color=00FFF7&label=STARS" />
 
 </div>
 
 ---
 
-## 🧾 Terminal (Live)
+## 🧠 About Me
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=650&color=00FF88&center=true&vCenter=true&width=900&lines=root%40Dimax66%3A~%24+boot+--cyber-lab;loading%3A+automation+engine...;loading%3A+security+modules...;loading%3A+web+systems...;status%3A+stable+%E2%9C%85;deploy%3A+ready+%E2%9A%A1" />
-
-</div>
-
----
-
-## 🧠 About
-> Cyber automation engineer fokus di **VPS, RDP, Web Systems, dan Security Research**.  
-> Build sistem yang **silent**, tapi **impact besar**: cepat, stabil, scalable.
-
----
-
-## 📊 GitHub Intelligence
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dimax66&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://streak-stats.demolab.com?user=Dimax66&theme=tokyonight&hide_border=true" height="170"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dimax66&theme=tokyonight" width="820"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimax66&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
----
-
-## ⚡ Core Systems
-- ⚙️ Automation Frameworks (Python/Bash/PHP)
-- 🔐 Security Research & Server Hardening
-- 🌐 Web Engineering & Tooling
-- 🧪 Performance Optimization
-- 🚀 Deployment, Scaling & Monitoring
+> Cyber-focused developer and automation enthusiast.
+> Working around **VPS, RDP, Web Systems, and Security Research**.
+> Always experimenting, optimizing, and building low-profile but effective solutions.
 
 ---
 
 ## 💻 Tech Stack
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,php,linux,nginx,apache,mysql,html,css,github"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Perl-39457E?style=plastic&logo=perl&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-D42029?style=plastic&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=black" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=plastic&logo=digitalocean&logoColor=white" />
+
 </div>
 
 ---
 
+## 🧩 What I Do
+
+* ⚙️ VPS & RDP Automation
+* 🔐 Server Hardening & Web Security
+* 🌐 Web Systems Engineering
+* 🧪 Research & Experimentation
+* 🧠 Performance Optimization
+
+---
+
+## 📌 Featured Focus
+
+* Custom automation scripts (Python, Bash, PHP)
+* Server deployment & monitoring
+* Security testing & hardening
+* Web-based system tools
+
+---
+
 ## 🌐 Connect
-- 🧬 GitHub: https://github.com/Dimax66  
-- 📡 Telegram: https://t.me/DefacerIndonesia1337  
+
+* 🔗 GitHub: [https://github.com/Dimax66](https://github.com/Dimax66)
+* 📡 Telegram: [https://t.me/DefacerIndonesia1337](https://t.me/DefacerIndonesia1337)
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&pause=1000&color=00FFF7&center=true&vCenter=true&width=650&lines=DEPLOYING+MODULES...;SYSTEM+STABLE;CYBER+MODE+ACTIVE"/>
-
-<br>
-
-<sub>© Dimax66 — Cyber Lab & Automation | 2026</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=CONNECTED...;SYSTEM+STABLE;BUILDING+MODULES...;CYBER+MODE+ACTIVE" />
 
 </div>
