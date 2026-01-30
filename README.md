@@ -21,7 +21,7 @@
 
 <br><br>
 
-<!-- BRAND LINKS (OFFICIAL LOGOS: GitHub + Telegram) -->
+<!-- OFFICIAL BRAND BUTTONS (ORIGINAL LOGOS + COLORS) -->
 <a href="https://github.com/Dimax66">
   <img
     src="https://img.shields.io/badge/GitHub-Dimax66-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -33,34 +33,6 @@
   <img
     src="https://img.shields.io/badge/Telegram-DefacerIndonesia1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
     alt="Telegram"
-  />
-</a>
-
-<br><br>
-
-<!-- STATUS (ONE CLEAN ROW, COLORS NOT SAME AS TYPING) -->
-<a href="https://github.com/Dimax66">
-  <img
-    src="https://komarev.com/ghpvc/?username=Dimax66&style=flat-square&color=111111&label=PROFILE%20VIEWS"
-    alt="Profile Views"
-  />
-</a>
-<a href="https://github.com/Dimax66?tab=followers">
-  <img
-    src="https://img.shields.io/github/followers/Dimax66?style=flat-square&label=FOLLOWERS&color=26A5E4"
-    alt="Followers"
-  />
-</a>
-<a href="https://github.com/Dimax66?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/REPOSITORIES-PUBLIC-181717?style=flat-square&logo=github&logoColor=white"
-    alt="Repositories"
-  />
-</a>
-<a href="https://github.com/Dimax66">
-  <img
-    src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%7C%20AUTOMATION-2B2B2B?style=flat-square"
-    alt="Focus"
   />
 </a>
 
