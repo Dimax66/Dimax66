@@ -1,7 +1,3 @@
-<!-- =============================== -->
-<!--    DIMAX66 — CYBER DASHBOARD  -->
-<!-- =============================== -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=800&color=00FFF7&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE;DIMAX66+CYBER+DASHBOARD;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY" />
@@ -40,21 +36,41 @@ Status   : Active
 Focus    : Automation / Infrastructure / Web Systems
 Location : Unknown
 Uptime   : Learning never stops
-📊 GITHUB ANALYTICS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dimax66&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=tokyonight&hide_border=true" height="170" /> </div>
-🌐 ACTIVITY GRAPH
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimax66&theme=tokyo-night&hide_border=true" /> </div>
-🐍 CONTRIBUTION SNAKE
-<div align="center"> <img src="https://raw.githubusercontent.com/Dimax66/Dimax66/output/github-contribution-grid-snake.svg" /> </div>
-🔗 CONNECT
 
-🐙 GitHub → https://github.com/Dimax66
+## 📊 GITHUB ANALYTICS
 
-💬 Telegram → https://t.me/DefacerIndonesia1337
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimax66&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=tokyonight&hide_border=true" height="170" />
+</div>
+
+---
+
+## 🌐 ACTIVITY GRAPH
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimax66&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dimax66/Dimax66/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🔗 CONNECT
+- 🐙 GitHub → https://github.com/Dimax66  
+- 💬 Telegram → https://t.me/DefacerIndonesia1337  
+
+---
 
 <div align="center">
 
-⚡ DIMAX66 CYBER SYSTEM — 2026 ⚡
-Silent work. Visible results.
+⚡ **DIMAX66 CYBER SYSTEM — 2026** ⚡  
+`Silent work. Visible results.`
 
-</div> ```
+</div>
