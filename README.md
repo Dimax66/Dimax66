@@ -1,10 +1,9 @@
 <!-- ========================================= -->
-<!--     DIMAX66 — PREMIUM CYBER PROFILE       -->
+<!--        DIMAX66 — PREMIUM CYBER README     -->
 <!-- ========================================= -->
 
 <div align="center">
 
-<!-- HERO BANNER (MP4 tidak bisa dipakai sebagai <img> di GitHub README) -->
 <img
   src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
   width="100%"
@@ -42,14 +41,21 @@
 
 ---
 
-## 🖤 Cyber Visual
+## 🖤 Cyber Terminal
 
 <div align="center">
-  <img
-    src="https://2.bp.blogspot.com/-7I6T61lxO_E/U4WoH1232aI/AAAAAAAAAmg/mqBfJoUB0mw/s320/animasi-bergerak-naruto-melawan-sasuke.gif"
-    width="320"
-    alt="Cyber animation"
-  />
+
+<!-- Upload GIF kamu ke repo: /assets/dimax66-terminal.gif -->
+<img
+  src="https://raw.githubusercontent.com/Dimax66/Dimax66/main/assets/dimax66-terminal.gif"
+  width="520"
+  alt="DIMAX66 Terminal"
+/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFF7&height=2&section=header" width="70%" alt="" />
+
 </div>
 
 ---
@@ -83,34 +89,43 @@
 
 ---
 
-## 📊 GitHub Analytics (FIX: lebih stabil, no broken)
+## 📊 GitHub Analytics (FIX: anti pecah + premium)
 
 <div align="center">
 
-<!-- GitHub Readme Stats (Vercel) -->
+<!-- 1) STATS (paling stabil) -->
 <img
   src="https://github-readme-stats.vercel.app/api?username=Dimax66&show_icons=true&hide_border=true&bg_color=000000&title_color=00FFF7&text_color=FFFFFF&icon_color=00FFF7&cache_seconds=1800"
   width="49%"
   alt="GitHub Stats"
 />
 
-<!-- Streak Stats (FIX: domain demolab, bukan herokuapp) -->
+<!-- 2) STREAK (FIX: demoblab, bukan herokuapp) -->
 <img
   src="https://streak-stats.demolab.com?user=Dimax66&hide_border=true&background=000000&ring=00FFF7&fire=00FFF7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FFF7&sideNums=00FFF7&dates=AAAAAA"
   width="49%"
   alt="GitHub Streak"
 />
 
+<br><br>
+
+<!-- 3) TOP LANGS (biar makin keren) -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimax66&layout=compact&hide_border=true&bg_color=000000&title_color=00FFF7&text_color=FFFFFF&cache_seconds=1800"
+  width="60%"
+  alt="Top Languages"
+/>
+
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 Trophies (FIX: stabil)
 
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=discord&no-frame=false&no-bg=false&margin-w=10"
+  src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6"
   alt="Trophies"
 />
 
