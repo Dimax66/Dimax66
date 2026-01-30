@@ -1,5 +1,5 @@
 <!-- ========================================= -->
-<!--        DIMAX66 — -->
+<!--        DIMAX66 — ULTRA+ CYBER MODE       -->
 <!-- ========================================= -->
 
 <div align="center">
@@ -14,41 +14,22 @@
 
 </div>
 
----
 
-## 🎴 SIDE ANIMATION
-
+<div style="position: fixed; bottom: 0px;left: 10px;width:130px;height:160px;"><img src="https://2.bp.blogspot.com/-7I6T61lxO_E/U4WoH1232aI/AAAAAAAAAmg/mqBfJoUB0mw/s1600/animasi-bergerak-naruto-melawan-sasuke.gif" /></div>
 
 ---
 
-## ⚙️ TECHNOLOGY STACK
 
-<div align="center">
+## 💻
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=plastic&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=00FFF7)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=00FFF7)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=00FFF7)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FFF7)
-![Perl](https://img.shields.io/badge/Perl-000?style=for-the-badge&logo=perl&logoColor=00FFF7)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00FFF7)
-![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=00FFF7)
-![Apache](https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=apache&logoColor=00FFF7)
-![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb&logoColor=00FFF7)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=00FFF7)
-![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=00FFF7)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?style=for-the-badge&logo=digitalocean&logoColor=00FFF7)
-![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku&logoColor=00FFF7)
+<h1> <img src = "https://github.com/Pari-Malam/Pari-Malam/blob/main/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-</div>
+[<img src="https://github-readme-stats.vercel.app/api?username=Pari-Malam&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Pari-Malam)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pari-Malam&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/Pari-Malam)
 
----
+[<img src="https://github.com/Pari-Malam/Pari-Malam/blob/main/resources/hr.gif"/>](https://github.com/Pari-Malam)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pari-malam&label=Profile%20views&color=0e75b6&style=flat" alt="pari-malam" /> </p>
 
-## 🧠 SYSTEM INFO
+## 🏆
+![](https://github-profile-trophy.vercel.app/?username=Pari-Malam&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-```txt
-User     : Dimax66
-Mode     : ULTRA+ / Stealth
-Status   : Active
-Focus    : Automation / Infrastructure / Web Systems
-Location : Unknown
-Uptime   : Learning never stops
