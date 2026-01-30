@@ -1,7 +1,5 @@
 <!-- ========================================= -->
-
 <!--     DIMAX66 — PREMIUM CYBER PROFILE     -->
-
 <!-- ========================================= -->
 
 <div align="center">
@@ -24,8 +22,8 @@
 
 ## 🧠 About Me
 
-> Cyber-focused developer and automation enthusiast.
-> Working around **VPS, RDP, Web Systems, and Security Research**.
+> Cyber-focused developer and automation enthusiast.  
+> Working around **VPS, RDP, Web Systems, and Security Research**.  
 > Always experimenting, optimizing, and building low-profile but effective solutions.
 
 ---
@@ -34,22 +32,25 @@
 
 <div align="center">
 
+### 🌐 Web & Programming
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/Perl-39457E?style=plastic&logo=perl&logoColor=white" />
+
+<br><br>
+
+### 🖥️ Servers & Databases
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
-
-<br>
-
 <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache-D42029?style=plastic&logo=apache&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" />
 
-<br>
+<br><br>
 
+### ☁️ Platform & Deployment
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=black" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=plastic&logo=digitalocean&logoColor=white" />
@@ -60,27 +61,30 @@
 
 ## 🧩 What I Do
 
-* ⚙️ VPS & RDP Automation
-* 🔐 Server Hardening & Web Security
-* 🌐 Web Systems Engineering
-* 🧪 Research & Experimentation
-* 🧠 Performance Optimization
+- ⚙️ VPS & RDP Automation  
+- 🔐 Server Hardening & Web Security  
+- 🌐 Web Systems Engineering  
+- 🧪 Research & Experimentation  
+- 🧠 Performance Optimization  
 
 ---
 
 ## 📌 Featured Focus
 
-* Custom automation scripts (Python, Bash, PHP)
-* Server deployment & monitoring
-* Security testing & hardening
-* Web-based system tools
+- Custom automation scripts (Python, Bash, PHP)  
+- Server deployment & monitoring  
+- Security testing & system hardening  
+- Web-based system tools  
 
 ---
 
 ## 🌐 Connect
 
-* 🔗 GitHub: [https://github.com/Dimax66](https://github.com/Dimax66)
-* 📡 Telegram: [https://t.me/DefacerIndonesia1337](https://t.me/DefacerIndonesia1337)
+- 🔗 GitHub  
+  https://github.com/Dimax66  
+
+- 📡 Telegram  
+  https://t.me/DefacerIndonesia1337  
 
 ---
 
@@ -90,5 +94,10 @@
 
 </div>
 
+---
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">via GIPHY</a></p>
+<div align="center">
+
+<sub>© Dimax66 — Cyber Systems & Automation | 2026</sub>
+
+</div>
