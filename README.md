@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<!-- HERO -->
+<!-- HERO (Pakai GIF yang benar-benar GIF, bukan MP4) -->
 <img
-  src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
+  src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
   width="100%"
   height="230"
   alt="DIMAX66 Banner"
@@ -48,18 +48,22 @@
 
 ---
 
-## 🖤 CYBER TERMINAL (REPLACE NARUTO/SASUKE)
+## 🖤 CYBER TERMINAL DEMO
 
 <div align="center">
 
-<!-- Upload GIF ke repo kamu:
-     Dimax66/Dimax66/main/assets/dimax66-terminal.gif
+<!--
+✅ CARA YANG BENAR UNTUK VIDEO DI README:
+1) Upload video ke repo kamu, misalnya: assets/dimax66-terminal.mp4
+2) Tempel LINK .mp4 langsung (JANGAN pakai <img>).
+3) GitHub akan otomatis munculin video player.
 -->
-<img
-  src="https://d.top4top.io/m_3682zl85x1.mp4"
-  width="680"
-  alt="DIMAX66 Terminal"
-/>
+
+https://github.com/USERNAME/REPO_NAME/blob/main/assets/dimax66-terminal.mp4
+
+<br>
+
+<sub>Jika video belum muncul, pastikan repo public & ukuran video tidak terlalu besar.</sub>
 
 <br><br>
 
@@ -76,25 +80,25 @@
 ## 💻 TECH STACK
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Perl-%2339457E.svg?style=plastic&logo=perl&logoColor=white" alt="Perl"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Perl-%2339457E.svg?style=flat-square&logo=perl&logoColor=white" alt="Perl"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white" alt="Apache"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-%2320232a.svg?style=plastic&logo=android&logoColor=%23A4C639" alt="Android"/>
-  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" alt="Heroku"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white" alt="DigitalOcean"/>
+  <img src="https://img.shields.io/badge/Android-%2320232a.svg?style=flat-square&logo=android&logoColor=%23A4C639" alt="Android"/>
+  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white" alt="DigitalOcean"/>
 </p>
 
 ---
@@ -112,7 +116,7 @@
 
 ---
 
-## 📊 GITHUB ANALYTICS (ANTI RUSAK + KEREN)
+## 📊 GITHUB ANALYTICS (STABIL + ANTI RUSAK)
 
 <div align="center">
 
@@ -123,7 +127,7 @@
   alt="GitHub Stats"
 />
 
-<!-- STREAK (FIX: demoblab) -->
+<!-- STREAK -->
 <img
   src="https://streak-stats.demolab.com?user=Dimax66&hide_border=true&background=000000&ring=00FFF7&fire=00FFF7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FFF7&sideNums=00FFF7&dates=777777"
   width="49%"
@@ -139,11 +143,19 @@
   alt="Top Languages"
 />
 
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=00FFF7&height=2&section=header"
+  width="80%"
+  alt=""
+/>
+
 </div>
 
 ---
 
-## 🏆 TROPHIES (RAPI + PREMIUM)
+## 🏆 TROPHIES (PREMIUM)
 
 <div align="center">
 
