@@ -20,21 +20,27 @@
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
-> Cyber-focused developer and automation engineer.  
+> Cyber-focused developer & automation engineer.  
 > Specializing in **VPS, RDP, Web Systems, and Security Research**.  
-> Building efficient, low-profile systems with high-impact results.
+> Designing **low-profile systems with high-impact performance**.
+
+I build tools and frameworks that focus on:
+- Stability  
+- Speed  
+- Stealth  
+- Scalability  
 
 ---
 
-## ⚡ Core Skills
+## ⚡ Core Capabilities
 
 - ⚙️ Automation & Scripting (Python, Bash, PHP)  
 - 🔐 Server Hardening & Security Testing  
 - 🌐 Web Systems Engineering  
-- 🧪 Research & Performance Optimization  
-- 🚀 Deployment & Monitoring  
+- 🧪 Performance Research & Optimization  
+- 🚀 Deployment, Scaling & Monitoring  
 
 ---
 
@@ -48,7 +54,7 @@
 <img src="https://img.shields.io/badge/PHP-00FFF7?style=for-the-badge&logo=php&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-00FFF7?style=for-the-badge&logo=python&logoColor=black"/>
 
-<br><br>
+<br>
 
 ### 🖥️ Infrastructure
 <img src="https://img.shields.io/badge/Linux-00FFF7?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -57,7 +63,7 @@
 <img src="https://img.shields.io/badge/MySQL-00FFF7?style=for-the-badge&logo=mysql&logoColor=black"/>
 <img src="https://img.shields.io/badge/MariaDB-00FFF7?style=for-the-badge&logo=mariadb&logoColor=black"/>
 
-<br><br>
+<br>
 
 ### ☁️ Platforms
 <img src="https://img.shields.io/badge/DigitalOcean-00FFF7?style=for-the-badge&logo=digitalocean&logoColor=black"/>
@@ -70,17 +76,17 @@
 
 ## 📌 Featured Focus
 
-- Custom automation frameworks  
-- Secure server deployment  
-- Performance tuning & scaling  
-- Web system tooling  
-- Cyber research projects  
+- 🔹 Custom Automation Frameworks  
+- 🔹 Secure Server Deployment  
+- 🔹 Performance Tuning & Scaling  
+- 🔹 Web System Tooling  
+- 🔹 Cyber Research Projects  
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
-- 🔗 **GitHub**  
+- 🧬 **GitHub**  
   https://github.com/Dimax66  
 
 - 📡 **Telegram**  
@@ -101,3 +107,18 @@
 <sub>© Dimax66 — Cyber Systems & Automation | 2026</sub>
 
 </div>
+
+---
+
+<!-- MATRIX CAT ANIMATION BANNER -->
+<details>
+<summary>🟢 SYSTEM VISUAL MODE</summary>
+
+<br>
+
+<!-- SVG tetap kamu, tapi saya bungkus agar tidak bikin README terlalu panjang -->
+<!-- GitHub akan tetap render dengan rapi dan optional -->
+
+PASTE SVG KAMU DI SINI (TIDAK DIUBAH)
+
+</details>
