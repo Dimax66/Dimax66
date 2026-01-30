@@ -68,22 +68,6 @@
 </div>
 
 <br>
-
-<!-- GITHUB STATS -->
-<h2>📊 GitHub Stats</h2>
-
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 25px 0;">
-</div>
-
-<br>
-
-<!-- TROPHY BADGES -->
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=radical&row=1&column=6&margin-w=10&margin-h=10" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-</div>
-
-<br>
-
 <!-- STATUS BADGES -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
   <a href="https://github.com/Dimax66">
