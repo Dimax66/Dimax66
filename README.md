@@ -12,7 +12,7 @@
   alt="DIMAX66 Terminal Banner"
 />
 
-<!-- TYPING (BRIGHT + GLOW FEEL) -->
+<!-- TYPING (BRIGHT / SHINE) -->
 <img
   src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=DIMAX66+-+ENGINEERING;SYSTEMS+%7C+AUTOMATION+%7C+SOFTWARE;CLEAN+ARCHITECTURE.+EFFICIENT+CODE;BUILDING+RELIABLE+DIGITAL+SYSTEMS"
   alt="Luminous Typing"
@@ -21,55 +21,52 @@
 
 <br><br>
 
-<!-- OFFICIAL BRAND LINKS (Original Colors + Logos) -->
+<!-- BRAND LINKS (OFFICIAL LOGOS: GitHub + Telegram) -->
 <a href="https://github.com/Dimax66">
   <img
-    src="https://img.shields.io/badge/GitHub-Dimax66-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    src="https://img.shields.io/badge/GitHub-Dimax66-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
 
 <a href="https://t.me/DefacerIndonesia1337">
   <img
-    src="https://img.shields.io/badge/Telegram-DefacerIndonesia1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF"
+    src="https://img.shields.io/badge/Telegram-DefacerIndonesia1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
     alt="Telegram"
   />
 </a>
 
 <br><br>
 
-<!-- STATUS BADGES (NOT SAME AS TYPING COLOR) -->
+<!-- STATUS (ONE CLEAN ROW, COLORS NOT SAME AS TYPING) -->
 <a href="https://github.com/Dimax66">
   <img
     src="https://komarev.com/ghpvc/?username=Dimax66&style=flat-square&color=111111&label=PROFILE%20VIEWS"
     alt="Profile Views"
   />
 </a>
-
 <a href="https://github.com/Dimax66?tab=followers">
   <img
     src="https://img.shields.io/github/followers/Dimax66?style=flat-square&label=FOLLOWERS&color=26A5E4"
     alt="Followers"
   />
 </a>
-
 <a href="https://github.com/Dimax66?tab=repositories">
   <img
-    src="https://img.shields.io/badge/REPOSITORIES-PUBLIC-181717?style=flat-square&logo=github&logoColor=FFFFFF"
+    src="https://img.shields.io/badge/REPOSITORIES-PUBLIC-181717?style=flat-square&logo=github&logoColor=white"
     alt="Repositories"
   />
 </a>
-
 <a href="https://github.com/Dimax66">
   <img
-    src="https://img.shields.io/badge/FOCUS-AUTOMATION%20%7C%20SYSTEMS-2B2B2B?style=flat-square"
+    src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%7C%20AUTOMATION-2B2B2B?style=flat-square"
     alt="Focus"
   />
 </a>
 
 <br><br>
 
-<!-- FOOTER LINE -->
+<!-- FOOTER DIVIDER -->
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=2&section=footer"
   width="82%"
@@ -77,7 +74,6 @@
 />
 
 <br>
-
 <sub>© 2026 — <b>Dimax66</b></sub>
 
 </div>
