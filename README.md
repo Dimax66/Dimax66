@@ -1,7 +1,5 @@
 <!-- ========================================= -->
-
 <!--     DIMAX66 — PREMIUM CYBER PROFILE     -->
-
 <!-- ========================================= -->
 
 <div align="center">
@@ -10,13 +8,14 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=900&color=00FFF7&center=true&vCenter=true&width=900&lines=DIMAX66+CYBER+PROFILE;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY;SILENT+WORK.+VISIBLE+RESULTS." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00FFF7&center=true&vCenter=true&width=1000&lines=DIMAX66+CYBER+PROFILE;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY;SILENT+WORK.+VISIBLE+RESULTS." />
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Dimax66&style=for-the-badge&color=00FFF7" />
 <img src="https://img.shields.io/github/followers/Dimax66?style=for-the-badge&color=00FFF7&label=FOLLOWERS" />
 <img src="https://img.shields.io/github/stars/Dimax66?style=for-the-badge&color=00FFF7&label=STARS" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FFF7?style=for-the-badge" />
 
 </div>
 
@@ -24,9 +23,20 @@
 
 ## 🧠 About Me
 
-> Cyber-focused developer and automation enthusiast.
-> Working around **VPS, RDP, Web Systems, and Security Research**.
-> Always experimenting, optimizing, and building low-profile but effective solutions.
+> Cyber-focused developer & automation enthusiast  
+> Specialized in **VPS, RDP, Web Systems, and Security Research**  
+> Building low-profile systems with high-impact performance.  
+> Always experimenting. Always optimizing.
+
+---
+
+## 🖥️ Terminal Live — Cyber Session
+
+> Real terminal-style animation, directly rendered in this README.
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="DIMAX66 Terminal Live" width="900"/>
+</p>
 
 ---
 
@@ -60,32 +70,39 @@
 
 ## 🧩 What I Do
 
-* ⚙️ VPS & RDP Automation
-* 🔐 Server Hardening & Web Security
-* 🌐 Web Systems Engineering
-* 🧪 Research & Experimentation
-* 🧠 Performance Optimization
+* ⚙️ VPS & RDP Automation  
+* 🔐 Server Hardening & Web Security  
+* 🌐 Web Systems Engineering  
+* 🧪 Research & Exploitation Analysis  
+* 🧠 Performance & Load Optimization  
 
 ---
 
 ## 📌 Featured Focus
 
-* Custom automation scripts (Python, Bash, PHP)
-* Server deployment & monitoring
-* Security testing & hardening
-* Web-based system tools
+* Custom automation frameworks (Python, Bash, PHP)  
+* Server deployment, monitoring & tuning  
+* Security testing, payload detection & hardening  
+* Cyber-style UI & web system tools  
 
 ---
 
 ## 🌐 Connect
 
-* 🔗 GitHub: [https://github.com/Dimax66](https://github.com/Dimax66)
-* 📡 Telegram: [https://t.me/DefacerIndonesia1337](https://t.me/DefacerIndonesia1337)
+* 🔗 GitHub  
+  https://github.com/Dimax66  
+
+* 📡 Telegram  
+  https://t.me/DefacerIndonesia1337  
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=CONNECTED...;SYSTEM+STABLE;BUILDING+MODULES...;CYBER+MODE+ACTIVE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=CONNECTED...;SYSTEM+STABLE;BUILDING+MODULES...;CYBER+MODE+ACTIVE;DIMAX66+ONLINE" />
+
+<br><br>
+
+<sub>© Dimax66 — 2026 | Silent Systems. Loud Results.</sub>
 
 </div>
