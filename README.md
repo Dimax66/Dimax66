@@ -1,5 +1,5 @@
 <!-- ========================================= -->
-<!--        DIMAX66 — PREMIUM DEV README       -->
+<!--        DIMAX66 — BLACK ELEGANCE README   -->
 <!-- ========================================= -->
 
 <div align="center">
@@ -13,7 +13,7 @@
   style="
     max-width: 1000px;
     border-radius: 18px;
-    box-shadow: 0 0 45px rgba(0,255,247,0.6);
+    box-shadow: 0 0 55px rgba(0,255,247,0.65);
     margin-bottom: 22px;
   "
   alt="DIMAX66 Terminal Banner"
@@ -23,7 +23,7 @@
 <!-- TYPING TITLE -->
 <!-- ========================================= -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00FFF7&center=true&vCenter=true&width=1000&lines=DIMAX66+DEVELOPER+PROFILE;SOFTWARE+ENGINEERING+%7C+AUTOMATION+%7C+SYSTEMS;CLEAN+ARCHITECTURE.+EFFICIENT+CODE.;BUILDING+RELIABLE+DIGITAL+INFRASTRUCTURE."
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00FFF7&center=true&vCenter=true&width=1000&lines=DIMAX66+—+BLACK+ENGINEERING;SYSTEMS+%7C+AUTOMATION+%7C+SOFTWARE;PRECISION+OVER+NOISE.;SILENT+DESIGN.+LUMINOUS+RESULTS."
   alt="Typing SVG"
 />
 
@@ -34,14 +34,14 @@
 <!-- ========================================= -->
 <a href="https://github.com/Dimax66">
   <img
-    src="https://img.shields.io/badge/GitHub-Dimax66-00FFF7?style=for-the-badge&logo=github&logoColor=000000"
+    src="https://img.shields.io/badge/GitHub-Dimax66-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFF7"
     alt="GitHub"
   />
 </a>
 
 <a href="https://t.me/DefacerIndonesia1337">
   <img
-    src="https://img.shields.io/badge/Telegram-DefacerIndonesia1337-00FFF7?style=for-the-badge&logo=telegram&logoColor=000000"
+    src="https://img.shields.io/badge/Telegram-DefacerIndonesia1337-0A0A0A?style=for-the-badge&logo=telegram&logoColor=00FFF7"
     alt="Telegram"
   />
 </a>
@@ -53,7 +53,7 @@
 <!-- ========================================= -->
 <a href="https://github.com/Dimax66">
   <img
-    src="https://komarev.com/ghpvc/?username=Dimax66&style=flat-square&color=00FFF7"
+    src="https://komarev.com/ghpvc/?username=Dimax66&style=flat-square&color=00FFF7&label=VIEWS"
     alt="Profile Views"
   />
 </a>
@@ -94,7 +94,7 @@
 
 <sub>
   © 2026 — <b>Dimax66</b><br>
-  <i>Precision in code. Excellence in systems.</i>
+  <i>Engineered in silence. Delivered in brilliance.</i>
 </sub>
 
 </div>
