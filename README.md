@@ -1,5 +1,5 @@
 <!-- ========================================= -->
-<!--        DIMAX66 — BLACK ELEGANCE README   -->
+<!--        DIMAX66 — LUMINOUS README         -->
 <!-- ========================================= -->
 
 <div align="center">
@@ -10,23 +10,23 @@
 <img
   src="https://j.top4top.io/p_3682hcgxk1.gif"
   width="100%"
-  style="max-width:1000px;border-radius:18px;box-shadow:0 0 55px rgba(0,255,247,0.65);margin-bottom:20px;"
+  style="max-width:1000px;border-radius:18px;box-shadow:0 0 60px rgba(0,255,247,0.7);margin-bottom:20px;"
   alt="DIMAX66 Terminal Banner"
 />
 
 <!-- ========================================= -->
-<!-- SINGLE ELEGANT TYPING (NO DOUBLE) -->
+<!-- BRIGHT GLOW TYPING (SINGLE, NO DOUBLE) -->
 <!-- ========================================= -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=0D2B2B&center=true&vCenter=true&width=1000&lines=DIMAX66+-+BLACK+ENGINEERING;SYSTEMS+%7C+AUTOMATION+%7C+SOFTWARE;PRECISION+OVER+NOISE;SILENT+DESIGN%2C+LUMINOUS+RESULTS"
-  alt="Elegant Typing"
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=900&color=00FFF7&center=true&vCenter=true&width=1000&lines=DIMAX66+-+BLACK+ENGINEERING;SYSTEMS+%7C+AUTOMATION+%7C+SOFTWARE;PRECISION+OVER+NOISE;SILENT+DESIGN%2C+LUMINOUS+RESULTS"
+  alt="Luminous Typing"
   width="100%"
 />
 
 <br><br>
 
 <!-- ========================================= -->
-<!-- QUICK LINKS (BLACK LUX) -->
+<!-- QUICK LINKS (LUX BLACK) -->
 <!-- ========================================= -->
 <a href="https://github.com/Dimax66">
   <img
