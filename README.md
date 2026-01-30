@@ -1,10 +1,3 @@
-<!-- Floating Anime (optional / fun) -->
-<div align="left">
-  <img src="https://2.bp.blogspot.com/-7I6T61lxO_E/U4WoH1232aI/AAAAAAAAAmg/mqBfJoUB0mw/s1600/animasi-bergerak-naruto-melawan-sasuke.gif" width="120"/>
-</div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=800&color=00FFF7&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE;DIMAX66+CYBER+DASHBOARD;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY" />
@@ -62,10 +55,30 @@
 
 ## 🧠 SYSTEM INFO
 
-```txt
 User     : Dimax66
 Mode     : Stealth
 Status   : Active
 Focus    : Automation / Infrastructure / Web Systems
 Location : Unknown
 Uptime   : Learning never stops
+
+
+---
+
+
+🐍 CONTRIBUTION SNAKE
+<div align="center"> <img src="https://raw.githubusercontent.com/Dimax66/Dimax66/output/github-contribution-grid-snake.svg"/> </div>
+🔗 CONNECT
+<div align="center">
+
+🐙 GitHub
+ •
+💬 Telegram
+
+</div>
+<div align="center">
+
+⚡ DIMAX66 CYBER SYSTEM — 2026 ⚡
+Silent work. Visible results.
+
+</div> ```
