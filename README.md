@@ -106,6 +106,11 @@
 <sub>© Dimax66 — 2026 | Silent Systems. Loud Results.</sub>
 
 </div>
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=320&color=00FFF7&center=true&vCenter=true&width=980&lines=root%40Dimax66%3A~%23+init+--profile+cyber;[+]+boot%3A+ok;[+]+network%3A+online;[+]+node%3A+SG-01;[+]+services%3A+nginx%2C+mysql;[+]+running%3A+python+main.py+--target+example.com;[+]+status%3A+completed;[SYSTEM]+idle+%7C+waiting+new+task..." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=320&color=00FFF7&center=true&vCenter=true&width=980&lines=root%40dimax66%3A~%24+init+--profile+cyber;BOOT_OK;NETWORK_ONLINE;NODE_SG01;SERVICES_NGINX_MYSQL;RUN%3A+python+main.py+--target+example.com;STATUS_COMPLETED;SYSTEM_IDLE"
+    alt="Live Terminal Cyber"
+  />
 </p>
