@@ -75,10 +75,6 @@
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 25px 0;">
 </div>
 
-<div style="display: flex; justify-content: center; margin: 15px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=radical&hide_border=false" height="180px" style="min-width: 620px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-</div>
-
 <br>
 
 <!-- TROPHY BADGES -->
