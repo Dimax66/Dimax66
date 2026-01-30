@@ -1,5 +1,5 @@
 <!-- ========================================= -->
-<!--        DIMAX66 — ULTRA+ CYBER MODE       -->
+<!--        DIMAX66 — -->
 <!-- ========================================= -->
 
 <div align="center">
@@ -18,9 +18,6 @@
 
 ## 🎴 SIDE ANIMATION
 
-<div align="center">
-  <img src="https://2.bp.blogspot.com/-7I6T61lxO_E/U4WoH1232aI/AAAAAAAAAmg/mqBfJoUB0mw/s1600/animasi-bergerak-naruto-melawan-sasuke.gif" width="260"/>
-</div>
 
 ---
 
