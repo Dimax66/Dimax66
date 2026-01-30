@@ -15,7 +15,6 @@
 </div>
 
 
-<div style="position: fixed; bottom: 0px;left: 10px;width:130px;height:160px;"><img src="https://2.bp.blogspot.com/-7I6T61lxO_E/U4WoH1232aI/AAAAAAAAAmg/mqBfJoUB0mw/s1600/animasi-bergerak-naruto-melawan-sasuke.gif" /></div>
 
 ---
 
