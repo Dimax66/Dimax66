@@ -14,23 +14,34 @@
     max-width: 1000px;
     border-radius: 18px;
     box-shadow: 0 0 55px rgba(0,255,247,0.65);
-    margin-bottom: 22px;
+    margin-bottom: 18px;
   "
   alt="DIMAX66 Terminal Banner"
 />
 
 <!-- ========================================= -->
-<!-- TYPING TITLE -->
+<!-- BLACK ELEGANT TYPING (GLOW + BLACK LAYER) -->
 <!-- ========================================= -->
+
+<!-- Glow layer (soft neon shine) -->
 <img
   src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00FFF7&center=true&vCenter=true&width=1000&lines=DIMAX66+—+BLACK+ENGINEERING;SYSTEMS+%7C+AUTOMATION+%7C+SOFTWARE;PRECISION+OVER+NOISE.;SILENT+DESIGN.+LUMINOUS+RESULTS."
-  alt="Typing SVG"
+  style="opacity:0.22; filter:blur(0.6px);"
+  alt="Glow Typing"
+/>
+
+<br>
+
+<!-- Main layer (elegant black text) -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=0A0A0A&center=true&vCenter=true&width=1000&lines=DIMAX66+—+BLACK+ENGINEERING;SYSTEMS+%7C+AUTOMATION+%7C+SOFTWARE;PRECISION+OVER+NOISE.;SILENT+DESIGN.+LUMINOUS+RESULTS."
+  alt="Black Elegant Typing"
 />
 
 <br><br>
 
 <!-- ========================================= -->
-<!-- QUICK ACCESS LINKS -->
+<!-- QUICK ACCESS LINKS (BLACK LUX) -->
 <!-- ========================================= -->
 <a href="https://github.com/Dimax66">
   <img
@@ -82,19 +93,18 @@
 <br><br>
 
 <!-- ========================================= -->
-<!-- FOOTER LINE -->
+<!-- FOOTER DIVIDER -->
 <!-- ========================================= -->
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=00FFF7&height=2&section=footer"
-  width="80%"
+  width="82%"
   alt="divider"
 />
 
 <br>
 
 <sub>
-  © 2026 — <b>Dimax66</b><br>
-  <i>Engineered in silence. Delivered in brilliance.</i>
+  © 2026 — <b>Dimax66</b>
 </sub>
 
 </div>
