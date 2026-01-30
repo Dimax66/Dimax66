@@ -59,7 +59,7 @@
 3) GitHub akan otomatis munculin video player.
 -->
 
-https://github.com/USERNAME/REPO_NAME/blob/main/assets/dimax66-terminal.mp4
+https://github.com/Dimax66/Dimax66/blob/main/Recording%202026-01-30%20141715.mp4
 
 <br>
 
