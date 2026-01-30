@@ -5,19 +5,19 @@
 <div align="center">
 
 <!-- HERO GIF -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoZTVidDhydTNvdXJxY3E3Mml6Z2lsNDlqNGN2b2d3cjZ5NnlxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="100%" height="220" />
-
-<br>
-
-<!-- TYPING TITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00FFF7&center=true&vCenter=true&width=950&lines=SYSTEM+ONLINE;DIMAX66+ULTRA%2B+CYBER+DASHBOARD;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY;SILENT+WORK.+VISIBLE+RESULTS." />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoZTVidDhydTNvdXJxY3E3Mml6Z2lsNDlqNGN2b2d3cjZ5NnlxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="100%" height="220"/>
 
 <br><br>
 
-<!-- QUICK BADGES -->
-<img src="https://komarev.com/ghpvc/?username=Dimax66&color=00FFF7&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Dimax66?style=for-the-badge&color=00FFF7&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/Dimax66?style=for-the-badge&color=00FFF7&label=STARS" />
+<!-- TITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00FFF7&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE;DIMAX66+ULTRA%2B+CYBER+DASHBOARD;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY;SILENT+WORK.+VISIBLE+RESULTS."/>
+
+<br><br>
+
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Dimax66&style=for-the-badge&color=00FFF7"/>
+<img src="https://img.shields.io/github/followers/Dimax66?style=for-the-badge&color=00FFF7"/>
+<img src="https://img.shields.io/github/stars/Dimax66?style=for-the-badge&color=00FFF7"/>
 
 </div>
 
@@ -35,59 +35,61 @@
 
 <div align="center">
 
-<!-- LANG -->
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Perl-%2339457E.svg?style=plastic&logo=perl&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Perl-39457E?style=plastic&logo=perl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
 
 <br>
 
-<!-- SERVER -->
-<img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D42029?style=plastic&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white"/>
 
 <br>
 
-<!-- PLATFORM -->
-<img src="https://img.shields.io/badge/Android-%2320232a.svg?style=plastic&logo=android&logoColor=%23a4c639" />
-<img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=black"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=plastic&logo=digitalocean&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 GITHUB ANALYTICS (STABLE MODE)
 
 <div align="center">
 
-<a href="https://github.com/Dimax66">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimax66&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
-</a>
-<a href="https://github.com/Dimax66">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
-</a>
+<!-- MAIN STATS -->
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dimax66&show_icons=true&theme=tokyonight&hide_border=true"
+  width="48%"/>
 
-<br>
+<!-- STREAK -->
+<img
+  src="https://streak-stats.demolab.com?user=Dimax66&theme=tokyonight&hide_border=true"
+  width="48%"/>
 
-<a href="https://github.com/Dimax66">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimax66&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
-</a>
+<br><br>
+
+<!-- TOP LANGS -->
+<img
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dimax66&layout=compact&theme=tokyonight&hide_border=true"
+  width="48%"/>
 
 </div>
 
 ---
 
-## 🏆 TROPHIES
+## 🏆 TROPHIES (ANTI-BROKEN)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=matrix&margin-w=8&no-frame=true" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=matrix&no-frame=true&margin-w=10"/>
 
 </div>
 
@@ -96,12 +98,12 @@
 ## 🌐 LINKS
 
 - 🔗 GitHub: https://github.com/Dimax66  
-- ⚙️ Fokus: VPS • RDP • Automation • Web Systems • Security Research
+- ⚙️ Fokus: VPS • RDP • Automation • Web Systems • Security Research  
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=900&color=00FFF7&center=true&vCenter=true&width=700&lines=CONNECTED...;SYSTEM+STABLE;UPGRADING+MODULES...;ULTRA%2B+MODE+ACTIVE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=900&color=00FFF7&center=true&vCenter=true&width=700&lines=CONNECTED...;SYSTEM+STABLE;UPGRADING+MODULES...;ULTRA%2B+MODE+ACTIVE"/>
 
 </div>
