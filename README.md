@@ -56,7 +56,7 @@
      Dimax66/Dimax66/main/assets/dimax66-terminal.gif
 -->
 <img
-  src="https://raw.githubusercontent.com/Dimax66/Dimax66/main/assets/dimax66-terminal.gif"
+  src="https://g.top4top.io/p_368231sid1.gif"
   width="680"
   alt="DIMAX66 Terminal"
 />
