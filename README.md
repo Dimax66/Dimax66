@@ -4,103 +4,117 @@
 
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoZTVidDhydTNvdXJxY3E3Mml6Z2lsNDlqNGN2b2d3cjZ5NnlxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="100%" height="220" />
+<!-- HERO BANNER (gunakan GIF/PNG/JPG. MP4 tidak didukung sebagai <img> di GitHub README) -->
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="220" alt="DIMAX66 Banner" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00FFF7&center=true&vCenter=true&width=1000&lines=DIMAX66+CYBER+PROFILE;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY;SILENT+WORK.+VISIBLE+RESULTS." />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=900&color=00FFF7&center=true&vCenter=true&width=1000&lines=DIMAX66+CYBER+PROFILE;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY;SILENT+WORK.+VISIBLE+RESULTS."
+  alt="Typing SVG"
+/>
 
 <br><br>
 
 <a href="https://github.com/Dimax66">
-  <img src="https://komarev.com/ghpvc/?username=Dimax66&style=flat-square&color=00FFF7" />
+  <img src="https://komarev.com/ghpvc/?username=Dimax66&style=flat-square&color=00FFF7" alt="Profile Views" />
 </a>
 <a href="https://github.com/Dimax66?tab=followers">
-  <img src="https://img.shields.io/github/followers/Dimax66?style=flat-square&color=00FFF7&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/Dimax66?style=flat-square&color=00FFF7&label=FOLLOWERS" alt="Followers" />
 </a>
 <a href="https://github.com/Dimax66?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOS-PUBLIC-00FFF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/REPOS-PUBLIC-00FFF7?style=flat-square" alt="Repos" />
 </a>
 <a href="https://github.com/Dimax66">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FFF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FFF7?style=flat-square" alt="Status" />
 </a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<!-- NOTE:
+GitHub README TIDAK mendukung:
+- position: fixed (CSS diabaikan)
+- script / iframe / video autoplay
+Jadi animasi bawah kiri diganti jadi section biasa.
+-->
 
-> **Cyber-focused developer & automation specialist**  
-> Building systems around **VPS, RDP, Web Systems, and Security Research**  
-> Low profile, clean workflow, high performance — **silent work, visible results**
+<div align="center">
+
+<img src="https://2.bp.blogspot.com/-7I6T61lxO_E/U4WoH1232aI/AAAAAAAAAmg/mqBfJoUB0mw/s1600/animasi-bergerak-naruto-melawan-sasuke.gif" width="240" alt="Animation" />
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Perl-%2339457E.svg?style=plastic&logo=perl&logoColor=white" alt="Perl" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Android-%2320232a.svg?style=plastic&logo=android&logoColor=%23A4C639" alt="Android" />
+  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white" alt="DigitalOcean" />
+</p>
 
 ---
 
-> LIVE SYSTEM LOG — NODE_SG01
+## 📌 About
 
-```bash
-root@dimax66:~$ clear
-root@dimax66:~$ echo "[+] DIMAX66_CYBER_SESSION"
-[+] DIMAX66_CYBER_SESSION
-root@dimax66:~$ echo "[+] BOOT_OK"
-[+] BOOT_OK
-root@dimax66:~$ echo "[+] NETWORK_ONLINE"
-[+] NETWORK_ONLINE
-root@dimax66:~$ echo "[+] NODE_SG01_CONNECTED"
-[+] NODE_SG01_CONNECTED
-root@dimax66:~$ echo "[+] SERVICES_NGINX_MYSQL_ACTIVE"
-[+] SERVICES_NGINX_MYSQL_ACTIVE
-root@dimax66:~$ python main.py --help
-Usage: main.py [options]
-root@dimax66:~$ echo "[+] STATUS_COMPLETED"
-[+] STATUS_COMPLETED
-root@dimax66:~$ echo "[+] SYSTEM_IDLE"
-[+] SYSTEM_IDLE
-root@dimax66:~$ whoami
-DIMAX66_CYBER_OPERATOR
-
+- ⚡ Fokus: automation, server hardening, dan web systems
+- 🧠 Prinsip: low profile, high curiosity
+- 🛠️ Tools: scripting + deployment + monitoring
+- 🎯 Target: hasil cepat, rapi, dan stabil
 
 ---
-### ⚙️ Automation Systems
-- Custom frameworks (Python/Bash/PHP)
-- CI/CD pipelines & deployment scripts
-- Task automation & process optimization
 
+## 📊 GitHub Analytics
 
-🛰️ Server Operations
-VPS optimization & monitoring
+<div align="center">
 
-Load balancing & scaling
+<!-- STATS -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Dimax66&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"
+  width="49%"
+  alt="GitHub Stats"
+/>
 
-Database tuning & reliability
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=tokyonight&hide_border=true&background=000000"
+  width="49%"
+  alt="GitHub Streak"
+/>
 
-🛡️ Security Operations
-Vulnerability assessment (legal & authorized)
+</div>
 
-Payload detection & log analysis
+---
 
-Server hardening & access control
+## 🏆 Trophies
 
-🧩 Web Systems
-Cyber-style UI & landing pages
+<div align="center">
 
-API development & integration
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=discord&no-frame=false&no-bg=false&margin-w=8"
+  alt="Trophies"
+/>
 
-Performance optimization & stability
+</div>
 
-📊 Cyber Stats
-Metrics	Value
-Projects	50+
-Servers	100+
-Security	100%
-🌐 Connect
-<div align="center"> <a href="https://github.com/Dimax66"> <img src="https://img.shields.io/badge/GitHub-Dimax66-00FFF7?style=for-the-badge&logo=github&logoColor=000000" /> </a> <a href="https://t.me/USERNAME_KAMU"> <img src="https://img.shields.io/badge/Telegram-Contact-00FFF7?style=for-the-badge&logo=telegram&logoColor=000000" /> </a> <a href="mailto:EMAIL_KAMU@domain.com"> <img src="https://img.shields.io/badge/Secure_Email-Send-00FFF7?style=for-the-badge&logo=gmail&logoColor=000000" /> </a>
-<br><br>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=820&lines=CONNECTED...;SYSTEM+STABLE;BUILDING+MODULES...;CYBER+MODE+ACTIVE;DIMAX66+ONLINE" />
-<br><br>
+<div align="center">
 
-<sub>© Dimax66 — 2026 | Silent Systems. Loud Results.</sub>
+### © Dimax66 2026
 
-</div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFF7&height=90&section=footer" width="100%" alt="Footer" />
+
+</div>
