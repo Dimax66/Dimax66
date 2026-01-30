@@ -1,5 +1,5 @@
 <!-- ========================================= -->
-<!--           DIMAX66 — LUX DEV README       -->
+<!--        DIMAX66 — CLEAN LUX README        -->
 <!-- ========================================= -->
 
 <div align="center">
@@ -12,7 +12,7 @@
   alt="DIMAX66 Terminal Banner"
 />
 
-<!-- TYPING (BRIGHT / SHINE) -->
+<!-- TYPING TEXT (TERANG & BERKILAU) -->
 <img
   src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=DIMAX66+-+ENGINEERING;SYSTEMS+%7C+AUTOMATION+%7C+SOFTWARE;CLEAN+ARCHITECTURE.+EFFICIENT+CODE;BUILDING+RELIABLE+DIGITAL+SYSTEMS"
   alt="Luminous Typing"
@@ -21,31 +21,25 @@
 
 <br><br>
 
-<!-- OFFICIAL BRAND BUTTONS (ORIGINAL LOGOS + COLORS) -->
+<!-- OFFICIAL BRAND BUTTONS (SINGLE LOGO ONLY) -->
+
 <a href="https://github.com/Dimax66">
   <img
-    src="https://img.shields.io/badge/GitHub-Dimax66-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/DIMAX66-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
 
 <a href="https://t.me/DefacerIndonesia1337">
   <img
-    src="https://img.shields.io/badge/Telegram-DefacerIndonesia1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    src="https://img.shields.io/badge/DEFACERINDONESIA1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
     alt="Telegram"
   />
 </a>
 
 <br><br>
 
-<!-- FOOTER DIVIDER -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=2&section=footer"
-  width="82%"
-  alt="divider"
-/>
-
-<br>
+<!-- FOOTER -->
 <sub>© 2026 — <b>Dimax66</b></sub>
 
 </div>
