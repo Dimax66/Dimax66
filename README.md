@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100%" height="180" />
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">via GIPHY</a></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=900&color=00FFF7&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;DIMAX66+ULTRA%2B+CYBER+DASHBOARD;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY;SILENT+WORK.+VISIBLE+RESULTS." />
 
