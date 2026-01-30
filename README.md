@@ -1,11 +1,25 @@
+<!-- ========================================= -->
+<!--        DIMAX66 — ULTRA+ CYBER MODE       -->
+<!-- ========================================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=800&color=00FFF7&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE;DIMAX66+CYBER+DASHBOARD;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY" />
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100%" height="180" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=900&color=00FFF7&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;DIMAX66+ULTRA%2B+CYBER+DASHBOARD;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY;SILENT+WORK.+VISIBLE+RESULTS." />
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimax66&color=00FFF7&style=for-the-badge)
 
+</div>
+
+---
+
+## 🎴 SIDE ANIMATION
+
+<div align="center">
+  <img src="https://2.bp.blogspot.com/-7I6T61lxO_E/U4WoH1232aI/AAAAAAAAAmg/mqBfJoUB0mw/s1600/animasi-bergerak-naruto-melawan-sasuke.gif" width="260"/>
 </div>
 
 ---
@@ -32,53 +46,12 @@
 
 ---
 
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dimax66&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
-
----
-
-## 🏆 TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=discord&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
 ## 🧠 SYSTEM INFO
 
+```txt
 User     : Dimax66
-Mode     : Stealth
+Mode     : ULTRA+ / Stealth
 Status   : Active
 Focus    : Automation / Infrastructure / Web Systems
 Location : Unknown
 Uptime   : Learning never stops
-
-
----
-
-
-🐍 CONTRIBUTION SNAKE
-<div align="center"> <img src="https://raw.githubusercontent.com/Dimax66/Dimax66/output/github-contribution-grid-snake.svg"/> </div>
-🔗 CONNECT
-<div align="center">
-
-🐙 GitHub
- •
-💬 Telegram
-
-</div>
-<div align="center">
-
-⚡ DIMAX66 CYBER SYSTEM — 2026 ⚡
-Silent work. Visible results.
-
-</div> ```
