@@ -89,3 +89,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=CONNECTED...;SYSTEM+STABLE;BUILDING+MODULES...;CYBER+MODE+ACTIVE" />
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Dimax66/Dimax66/output/anime-bergerak.svg" />
