@@ -21,18 +21,18 @@
 
 <br><br>
 
-<!-- OFFICIAL BRAND LINKS (Original Colors + Logos) -->
+<!-- OFFICIAL BRAND LINKS (PROPER LOGOS) -->
 <a href="https://github.com/Dimax66">
   <img
-    src="https://img.shields.io/badge/GitHub-Dimax66-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="GitHub"
+    src="https://img.shields.io/badge/-Dimax66-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&logoWidth=24"
+    alt="GitHub Profile"
   />
 </a>
 
 <a href="https://t.me/DefacerIndonesia1337">
   <img
-    src="https://img.shields.io/badge/Telegram-DefacerIndonesia1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF"
-    alt="Telegram"
+    src="https://img.shields.io/badge/-DefacerIndonesia1337-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF&logoWidth=24"
+    alt="Telegram Channel"
   />
 </a>
 
