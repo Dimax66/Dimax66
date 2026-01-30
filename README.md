@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100%" height="180" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RoZTVidDhydTNvdXJxY3E3Mml6Z2lsNDlqNGN2b2d3cjZ5NnlxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="100%" height="200" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=900&color=00FFF7&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;DIMAX66+ULTRA%2B+CYBER+DASHBOARD;AUTOMATION+%7C+SERVERS+%7C+WEB+SYSTEMS;LOW+PROFILE+-+HIGH+CURIOSITY;SILENT+WORK.+VISIBLE+RESULTS." />
 
@@ -42,13 +42,8 @@
 
 <div align="center">
 
-<a href="https://github.com/Dimax66">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimax66&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide_border=true&bg_color=000000" width="48%" />
-</a>
-
-<a href="https://github.com/Dimax66">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=chartreuse-dark&hide_border=true&bg_color=000000" width="48%" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Dimax66&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -58,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=discord&margin-w=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=matrix&margin-w=8&no-frame=true" />
 
 </div>
 
@@ -73,6 +68,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=CONNECTED...;MONITORING+SYSTEMS...;ULTRA%2B+MODE+ACTIVE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=900&color=00FFF7&center=true&vCenter=true&width=650&lines=CONNECTED...;SYSTEM+STABLE;ULTRA%2B+MODE+ACTIVE" />
 
 </div>
