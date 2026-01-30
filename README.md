@@ -1,5 +1,5 @@
 <!-- ========================================= -->
-<!--     DIMAX66 — PREMIUM CYBER PROFILE     -->
+<!--     DIMAX66 — PREMIUM CYBER PROFILE       -->
 <!-- ========================================= -->
 
 <div align="center">
@@ -23,20 +23,40 @@
 
 ## 🧠 About Me
 
-> Cyber-focused developer & automation enthusiast  
-> Specialized in **VPS, RDP, Web Systems, and Security Research**  
-> Building low-profile systems with high-impact performance.  
-> Always experimenting. Always optimizing.
+> Cyber-focused developer & automation enthusiast.  
+> Building practical systems around **VPS, RDP, Web Systems, and Security Research**.  
+> Low profile, clean workflow, high performance — **silent work, visible results**.
 
 ---
 
 ## 🖥️ Terminal Live — Cyber Session
 
-> Real terminal-style animation, directly rendered in this README.
+> Live terminal vibe (typing effect) + optional recorded terminal (SVG local).
 
+<!-- OPTIONAL: kalau kamu punya assets/terminal.svg -->
 <p align="center">
-  <img src="assets/terminal.svg" alt="DIMAX66 Terminal Live" width="900"/>
+  <img src="assets/terminal.svg" alt="DIMAX66 Terminal Live (Local SVG)" width="900"/>
 </p>
+
+<!-- LIVE TERMINAL (Stable, short URL, GitHub-friendly) -->
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+**`root@dimax66:~$ live-session`**
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=420&color=00FFF7&center=false&vCenter=true&width=920&lines=root%40dimax66%3A~%24+clear;root%40dimax66%3A~%24+echo+DIMAX66_CYBER_SESSION;DIMAX66_CYBER_SESSION;root%40dimax66%3A~%24+echo+BOOT_OK;BOOT_OK;root%40dimax66%3A~%24+echo+NETWORK_ONLINE;NETWORK_ONLINE;root%40dimax66%3A~%24+echo+NODE_SG01;NODE_SG01;root%40dimax66%3A~%24+echo+SERVICES_NGINX_MYSQL;SERVICES_NGINX_MYSQL;root%40dimax66%3A~%24+python+main.py+--help;Usage%3A+main.py+%5Boptions%5D;root%40dimax66%3A~%24+echo+STATUS_COMPLETED;STATUS_COMPLETED;root%40dimax66%3A~%24+echo+SYSTEM_IDLE;SYSTEM_IDLE"
+  alt="DIMAX66 Live Terminal"
+/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -68,49 +88,28 @@
 
 ---
 
-## 🧩 What I Do
-
-* ⚙️ VPS & RDP Automation  
-* 🔐 Server Hardening & Web Security  
-* 🌐 Web Systems Engineering  
-* 🧪 Research & Exploitation Analysis  
-* 🧠 Performance & Load Optimization  
-
----
-
 ## 📌 Featured Focus
 
-* Custom automation frameworks (Python, Bash, PHP)  
-* Server deployment, monitoring & tuning  
-* Security testing, payload detection & hardening  
-* Cyber-style UI & web system tools  
+- ⚙️ Custom automation frameworks (Python, Bash, PHP)  
+- 🛰️ Server deployment, monitoring & tuning  
+- 🛡️ Security testing, payload detection & hardening  
+- 🧩 Cyber-style UI & web system tools  
 
 ---
 
 ## 🌐 Connect
 
-* 🔗 GitHub  
-  https://github.com/Dimax66  
-
-* 📡 Telegram  
-  https://t.me/DefacerIndonesia1337  
+- 🔗 GitHub: https://github.com/Dimax66  
+- 📡 Telegram: https://t.me/DefacerIndonesia1337  
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=CONNECTED...;SYSTEM+STABLE;BUILDING+MODULES...;CYBER+MODE+ACTIVE;DIMAX66+ONLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=820&lines=CONNECTED...;SYSTEM+STABLE;BUILDING+MODULES...;CYBER+MODE+ACTIVE;DIMAX66+ONLINE" />
 
 <br><br>
 
 <sub>© Dimax66 — 2026 | Silent Systems. Loud Results.</sub>
 
 </div>
-
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=320&color=00FFF7&center=true&vCenter=true&width=980&lines=root%40dimax66%3A~%24+init+--profile+cyber;BOOT_OK;NETWORK_ONLINE;NODE_SG01;SERVICES_NGINX_MYSQL;RUN%3A+python+main.py+--target+example.com;STATUS_COMPLETED;SYSTEM_IDLE"
-    alt="Live Terminal Cyber"
-  />
-</p>
