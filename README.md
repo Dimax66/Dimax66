@@ -6,7 +6,7 @@
 
 <!-- HERO (Pakai GIF yang benar-benar GIF, bukan MP4) -->
 <img
-  src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+  src="https://j.top4top.io/p_3682hcgxk1.gif"
   width="100%"
   height="230"
   alt="DIMAX66 Banner"
