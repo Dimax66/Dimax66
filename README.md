@@ -16,8 +16,8 @@
 
 <!-- BADGES -->
 <img src="https://komarev.com/ghpvc/?username=Dimax66&style=for-the-badge&color=00FFF7"/>
-<img src="https://img.shields.io/github/followers/Dimax66?style=for-the-badge&color=00FFF7"/>
-<img src="https://img.shields.io/github/stars/Dimax66?style=for-the-badge&color=00FFF7"/>
+<img src="https://img.shields.io/github/followers/Dimax66?style=for-the-badge&color=00FFF7&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Dimax66?style=for-the-badge&color=00FFF7&label=STARS"/>
 
 </div>
 
@@ -35,6 +35,7 @@
 
 <div align="center">
 
+<!-- LANGUAGES -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"/>
@@ -44,6 +45,7 @@
 
 <br>
 
+<!-- SERVER -->
 <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-D42029?style=plastic&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white"/>
@@ -51,6 +53,7 @@
 
 <br>
 
+<!-- PLATFORM -->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=black"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=plastic&logo=digitalocean&logoColor=white"/>
@@ -59,51 +62,26 @@
 
 ---
 
-## 📊 GITHUB ANALYTICS (STABLE MODE)
+## 🧩 OPERATIONS
 
-<div align="center">
-
-<!-- MAIN STATS -->
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dimax66&show_icons=true&theme=tokyonight&hide_border=true"
-  width="48%"/>
-
-<!-- STREAK -->
-<img
-  src="https://streak-stats.demolab.com?user=Dimax66&theme=tokyonight&hide_border=true"
-  width="48%"/>
-
-<br><br>
-
-<!-- TOP LANGS -->
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dimax66&layout=compact&theme=tokyonight&hide_border=true"
-  width="48%"/>
-
-</div>
-
----
-
-## 🏆 TROPHIES (ANTI-BROKEN)
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=matrix&no-frame=true&margin-w=10"/>
-
-</div>
+- ⚙️ VPS & RDP Automation  
+- 🔐 Server Hardening & Web Security  
+- 🌐 Web Systems Engineering  
+- 🧪 Research & Experimentation  
+- 🧠 Low Profile Recon & Analysis  
 
 ---
 
 ## 🌐 LINKS
 
 - 🔗 GitHub: https://github.com/Dimax66  
+- 📡 Telegram: https://t.me/DefacerIndonesia1337  
 - ⚙️ Fokus: VPS • RDP • Automation • Web Systems • Security Research  
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=900&color=00FFF7&center=true&vCenter=true&width=700&lines=CONNECTED...;SYSTEM+STABLE;UPGRADING+MODULES...;ULTRA%2B+MODE+ACTIVE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=900&color=00FFF7&center=true&vCenter=true&width=700&lines=CONNECTED...;SYSTEM+STABLE;ULTRA%2B+MODE+ACTIVE"/>
 
 </div>
