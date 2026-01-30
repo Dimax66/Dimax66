@@ -1,27 +1,21 @@
-name: Generate Snake
+📊 GITHUB ANALYTICS
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dimax66&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=tokyonight&hide_border=true" width="49%"/> </div>
+🌐 ACTIVITY GRAPH
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimax66&theme=tokyo-night&hide_border=true" /> </div>
+🏆 TROPHIES
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=discord&no-frame=true&no-bg=true&margin-w=10"/> </div>
+🐍 CONTRIBUTION SNAKE
+<div align="center"> <img src="https://raw.githubusercontent.com/Dimax66/Dimax66/output/github-contribution-grid-snake.svg"/> </div>
+🔗 CONNECT
+<div align="center">
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Dimax66
-          outputs: |
-            dist/github-contribution-grid-snake.svg
 
-      - name: Push output
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</div>
+<div align="center">
+
+⚡ DIMAX66 CYBER SYSTEM — 2026 ⚡
+Silent work. Visible results.
+
+</div> ```
