@@ -90,26 +90,6 @@
 
 <br>
 
-<!-- PROJECTS HIGHLIGHT -->
-<h2>🚀 Featured Projects</h2>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 25px 0;">
-  <div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); border: 1px solid #333;">
-    <h3 style="color: #00FFF7; margin: 0 0 10px 0; font-size: 18px;">🔧 Automation Tools</h3>
-    <p style="color: #ccc; font-size: 14px; margin: 0;">Custom scripts and tools for system automation and workflow optimization.</p>
-  </div>
-  <div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); border: 1px solid #333;">
-    <h3 style="color: #00FFF7; margin: 0 0 10px 0; font-size: 18px;">🌐 Web Applications</h3>
-    <p style="color: #ccc; font-size: 14px; margin: 0;">Full-stack web development projects with modern frameworks and clean architecture.</p>
-  </div>
-  <div style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 20px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); border: 1px solid #333;">
-    <h3 style="color: #00FFF7; margin: 0 0 10px 0; font-size: 18px;">💾 System Tools</h3>
-    <p style="color: #ccc; font-size: 14px; margin: 0;">Low-level system utilities and performance optimization tools.</p>
-  </div>
-</div>
-
-<br>
-
 <!-- STATUS BADGES -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
   <a href="https://github.com/Dimax66">
