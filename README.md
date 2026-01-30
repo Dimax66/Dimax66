@@ -73,19 +73,19 @@
 <h2>📊 GitHub Stats</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 25px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimax66&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180px" style="min-width: 300px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimax66&theme=dark&hide_border=false&layout=compact&langs_count=8" height="180px" style="min-width: 300px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimax66&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180px" style="min-width: 300px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimax66&theme=radical&hide_border=false&layout=compact&langs_count=8" height="180px" style="min: 300px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
 </div>
 
 <div style="display: flex; justify-content: center; margin: 15px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=dark&hide_border=false" height="180px" style="min-width: 620px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimax66&theme=radical&hide_border=false" height="180px" style="min-width: 620px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
 </div>
 
 <br>
 
 <!-- TROPHY BADGES -->
 <div style="display: flex; justify-content: center; margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=onedark&row=1&column=6&margin-w=10&margin-h=10" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dimax66&theme=radical&row=1&column=6&margin-w=10&margin-h=10" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
 </div>
 
 <br>
